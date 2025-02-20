@@ -20,7 +20,7 @@ I'm <b>Étienne</b>, a software developer from France 🇫🇷. I enjoy creating
 <h2 align="left">My Skills</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,c,cpp,arch,debian,sqlite,mysql,cassandra,opencv,selenium,cloudflare,vscode,html,css,javascript,figma,django,flask,git,nginx,notion,obsidian,postman,docker,arduino,raspberrypi,bash,powershell,blender,ae,ps,pr" />
+    <img src="https://skillicons.dev/icons?i=py,rust,c,cpp,arch,debian,sqlite,mysql,cassandra,opencv,selenium,cloudflare,vscode,html,css,javascript,figma,django,flask,git,nginx,notion,obsidian,postman,docker,arduino,raspberrypi,bash,powershell,blender,ae,ps,pr" />
   </a>
 </p>
 
