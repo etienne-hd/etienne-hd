@@ -11,6 +11,9 @@
 <!-- Socials -->
 <h2 align="left">Connect with Me</h2>
 <p align="center">
+  <a href="https://www.linkedin.com/in/%C3%A9tienne-hod%C3%A9-02a772364" target="_blank" style="text-decoration: none;">
+    <img alt="Discord" width="48px" src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
   <a href="https://discord.com/users/1153975318990827552" target="_blank" style="text-decoration: none;">
     <img alt="Discord" width="48px" src="https://skillicons.dev/icons?i=discord" />
   </a>
