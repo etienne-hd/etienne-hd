@@ -11,7 +11,7 @@
 <!-- Socials -->
 <h2 align="left">Connect with Me</h2>
 <p align="center">
-  <a href="https://www.linkedin.com/in/%C3%A9tienne-hod%C3%A9-02a772364" target="_blank" style="text-decoration: none;">
+  <a href="https://www.linkedin.com/in/etiennehd" target="_blank" style="text-decoration: none;">
     <img alt="Discord" width="48px" src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="https://discord.com/users/1153975318990827552" target="_blank" style="text-decoration: none;">
@@ -26,7 +26,7 @@
 <h2 align="left">Tech Stack</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,rust,c,cpp,html,css,javascript,flask,bash,git,docker,sqlite,mysql,selenium,cloudflare,vscode,vim,figma,arch,debian" />
+    <img src="https://skillicons.dev/icons?i=py,rust,go,c,cpp,html,css,javascript,flask,bash,git,docker,sqlite,mysql,selenium,cloudflare,vscode,vim,figma,arch,debian" />
   </a>
 </p>
 
