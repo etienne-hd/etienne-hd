@@ -29,9 +29,8 @@
     <img src="https://skillicons.dev/icons?i=py,rust,go,c,cpp,html,css,javascript,flask,bash,git,docker,sqlite,mysql,selenium,cloudflare,vscode,vim,figma,arch,debian" />
   </a>
 </p>
-
 <!-- Stats -->
 <h2 align="left">WakaTime Stats (since Jan 24, 2025)</h2>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@etienneh&theme=dark&layout=compact&langs_count=15&border_radius=25&hide_title=true" alt="etienne wakatime stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@etienneh&theme=dark&layout=compact&langs_count=16&border_radius=25&hide_title=true" alt="etienne wakatime stats" />
 </p>
