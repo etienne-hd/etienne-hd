@@ -26,7 +26,7 @@
 <h2 align="left">Tech Stack</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,rust,go,c,cpp,html,css,javascript,flask,bash,git,docker,sqlite,mysql,selenium,cloudflare,vscode,vim,figma,arch,debian" />
+    <img src="https://skillicons.dev/icons?i=py,c,cpp,bash,git,docker,vscode,vim,linux" />
   </a>
 </p>
 <!-- Stats -->
