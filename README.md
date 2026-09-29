@@ -4,8 +4,8 @@
 <!-- Presentation -->
 <h2 align="left">About Me</h2>
 <p align="left">
-  I'm <b>Étienne</b>, a software developer from France 🇫🇷, specializing in bot development and web data extraction. <br>
-  I enjoy creating automation tools, mining data at scale, and working with modern programming languages such as Python and Rust.
+I'm <b>Étienne</b>, a software developer from France 🇫🇷, specializing in web scraping and bot development.
+I enjoy reverse engineering, JavaScript deobfuscation, mobile application analysis, and building tools with languages like Python and Go.
 </p>
 
 <!-- Socials -->
@@ -17,16 +17,13 @@
   <a href="https://discord.com/users/1153975318990827552" target="_blank" style="text-decoration: none;">
     <img alt="Discord" width="48px" src="https://skillicons.dev/icons?i=discord" />
   </a>
-  <a href="https://instagram.com/etienne.hd" target="_blank" style="margin: 0 10px; text-decoration: none;">
-    <img alt="Instagram" width="48px" src="https://skillicons.dev/icons?i=instagram" />
-  </a>
 </p>
 
 <!-- Skills -->
 <h2 align="left">Tech Stack</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,c,cpp,bash,git,docker,vscode,vim,linux" />
+    <img src="https://skillicons.dev/icons?i=go,py,c,cpp,bash,git,docker,vscode,vim,linux" />
   </a>
 </p>
 <!-- Stats -->
